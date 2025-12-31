@@ -1,0 +1,6 @@
+site_name: Molavel
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: blue
