@@ -217,3 +217,9 @@ __marimo__/
 
 # VSCode
 .vscode
+
+# PyCharm
+.idea
+
+# MKdocs
+site
